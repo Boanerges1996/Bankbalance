@@ -3,7 +3,7 @@
 /*
 ** Written by Nkrumah Samson Kwaku
 ** Pin 19551A0545
-** Frequency of numbers [100,50,20,10,5,1] in a bank balance
+** Frequency of numbers [100,50,20,10,5,1] in a bank balance Assignment
 */
 
 int main()
